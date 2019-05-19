@@ -8,7 +8,7 @@ This demo project is created with combination of react and redux libraries, reac
 node version >= 8.11.3 npm version >= 4.6.1
 
 # Steps to start project
-Clone git from repo.
-npm install.
-npm start.
-go to the link http://localhost:5000/
+1. Clone git from repo.
+2. npm install.
+3. npm start.
+4. go to the link http://localhost:5000/
